@@ -1,0 +1,3304 @@
+[ {
+  "name" : "org.joda.time.chrono.gj.MainTest.junit.framework.TestSuite$1.warning",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.chrono.gj.TestAll.org.joda.time.chrono.gj.MainTest.testChronology",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.chrono.gj.TestAll.org.joda.time.chrono.gj.MainTest.testChronology",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.chrono.TestAll.initializationError",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.chrono.TestBuddhistChronology.initializationError",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.chrono.TestCopticChronology.initializationError",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.chrono.TestEthiopicChronology.initializationError",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.chrono.TestGJChronology.initializationError",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_plusYears_negativeToPositive_crossCutover",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_plusYears_negativeToPositive",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_cutoverPreZero",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_plusYears_negativeToNegative",
+  "value" : 0.6
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_plusYears_positiveToPositive",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToNegative_crossCutover",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero_crossCutover",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_plusYears_positiveToPositive_crossCutover",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative_crossCutover",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_plusYears_negativeToZero",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToZero_crossCutover",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.chrono.TestGregorianChronology.initializationError",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.chrono.TestIslamicChronology.initializationError",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.chrono.TestISOChronology.initializationError",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.chrono.TestJulianChronology.initializationError",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.chrono.TestLenientChronology.test_lenientChrononolgy_Turk",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.chrono.TestLenientChronology.test_setDayOfMonth",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.chrono.TestLenientChronology.test_lenientChrononolgy_Chicago",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.chrono.TestLenientChronology.test_MockTurkIsCorrect",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.chrono.TestLenientChronology.testNearDstTransition",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.chrono.TestLenientChronology.test_setMonthOfYear",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.chrono.TestLenientChronology.test_strictChrononolgy_Chicago",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.chrono.TestLenientChronology.test_isoChrononolgy_Chicago",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.chrono.TestLenientChronology.test_setYear",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.chrono.TestLenientChronology.test_setHourOfDay",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.convert.TestAll.initializationError",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.convert.TestCalendarConverter.initializationError",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemovePartialConverterSecurity",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetInstantConverterRemovedNull",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetPartialConverters",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddPeriodConverter1",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddPeriodConverter2",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddPeriodConverter3",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddDurationConverter1",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddDurationConverter2",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddDurationConverter3",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetPartialConverterRemovedNull",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetPeriodConverter",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetPartialConverter",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemoveIntervalConverter1",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemoveIntervalConverter2",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemoveIntervalConverter3",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetDurationConverters",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddInstantConverterSecurity",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testToString",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetInstantConverters",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemovePartialConverter1",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemovePartialConverter2",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemovePartialConverter3",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testSingleton",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetDurationConverterRemovedNull",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetPartialConverterOKMultipleMatches",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemovePeriodConverter1",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemovePeriodConverter2",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemovePeriodConverter3",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetInstantConverter",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddPartialConverterSecurity",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemoveInstantConverter1",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemoveInstantConverter2",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemoveInstantConverter3",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemoveDurationConverterSecurity",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddPartialConverter1",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddPartialConverter2",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddPartialConverter3",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddPartialConverter4",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetInstantConverterBadMultipleMatches",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemoveDurationConverter1",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemoveDurationConverter2",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemoveDurationConverter3",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetInstantConverterOKMultipleMatches",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddDurationConverterSecurity",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetPeriodConverterRemovedNull",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddIntervalConverter1",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddIntervalConverter2",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddIntervalConverter3",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetPartialConverterBadMultipleMatches",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetPeriodConverters",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetIntervalConverters",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemoveIntervalConverterSecurity",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddInstantConverter1",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddInstantConverter2",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddInstantConverter3",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddInstantConverter4",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemoveInstantConverterSecurity",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetDurationConverter",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testRemovePeriodConverterSecurity",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetIntervalConverterRemovedNull",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddPeriodConverterSecurity",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testAddIntervalConverterSecurity",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.convert.TestConverterManager.testGetIntervalConverter",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.convert.TestConverterSet.testClass",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.convert.TestConverterSet.testRemoveBadIndex1",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.convert.TestConverterSet.testRemoveBadIndex2",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.convert.TestConverterSet.testRemoveNullRemoved1",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.convert.TestConverterSet.testRemoveNullRemoved2",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.convert.TestConverterSet.testBigHashtable",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.convert.TestConverterSet.testAddNullRemoved1",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.convert.TestConverterSet.testAddNullRemoved2",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.convert.TestConverterSet.testAddNullRemoved3",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.convert.TestDateConverter.initializationError",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.convert.TestLongConverter.initializationError",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.convert.TestNullConverter.initializationError",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.convert.TestReadableDurationConverter.initializationError",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.convert.TestReadableInstantConverter.initializationError",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.convert.TestReadableIntervalConverter.initializationError",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.convert.TestReadablePartialConverter.initializationError",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.convert.TestReadablePeriodConverter.initializationError",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.convert.TestStringConverter.initializationError",
+  "value" : 0.6
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestFieldUtils.testSafeDivideLongLong",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestFieldUtils.testSafeMultiplyLongLong",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestFieldUtils.testSafeMultiplyLongInt",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestFieldUtils.testSafeSubtractLong",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestFieldUtils.testSafeAddInt",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestFieldUtils.testSafeAddLong",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_set_long_String",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getMaximumValue_long",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getAsText_RP_int_Locale",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_isLeap_long",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_roundCeiling_long",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getName",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getType",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_roundHalfEven_long",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_constructor",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getLeapDurationField",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getAsShortText_long",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_get",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_set_RP_int_intarray_int",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getAsText_long",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getAsShortText_int_Locale",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getAsText_int_Locale",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_convertText",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_add_long_int",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getDifferenceAsLong_long_long",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_roundHalfFloor_long",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getMinimumValue_RP",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getDifference_long_long",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getAsShortText_RP_Locale",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_add_long_long",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_remainder_long",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_set_RP_int_intarray_String_Locale",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getMaximumTextLength_Locale",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_roundHalfCeiling_long",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getAsText_RP_Locale",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getMinimumValue_long",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getAsShortText_long_Locale",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getMaximumValue_RP",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getAsShortText_RP_int_Locale",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_roundFloor_long",
+  "value" : 0.6
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_set_long_int",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getAsText_long_Locale",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getMaximumValue",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_addWrapField_long_int",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_add_RP_int_intarray_int",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_set_long_String_Locale",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_toString",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getMinimumValue",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_isSupported",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_addWrapField_RP_int_intarray_int",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getMaximumValue_RP_intarray",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getLeapAmount_long",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getMinimumValue_RP_intarray",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestBaseDateTimeField.test_getMaximumShortTextLength_Locale",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_set_long_String",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getMaximumValue_long",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getAsText_RP_int_Locale",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_isLeap_long",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_roundCeiling_long",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getName",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getType",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_roundHalfEven_long",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getLeapDurationField",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getAsShortText_long",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_get",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_set_RP_int_intarray_int",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getAsText_long",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getAsShortText_int_Locale",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getAsText_int_Locale",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_convertText",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_add_long_int",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getDifferenceAsLong_long_long",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_roundHalfFloor_long",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_isLenient",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getMinimumValue_RP",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getDifference_long_long",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getAsShortText_RP_Locale",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_add_long_long",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_remainder_long",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_set_RP_int_intarray_String_Locale",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getMaximumTextLength_Locale",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_roundHalfCeiling_long",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getAsText_RP_Locale",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getMinimumValue_long",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getAsShortText_long_Locale",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getOffset",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getMaximumValue_RP",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getAsShortText_RP_int_Locale",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_roundFloor_long",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_set_long_int",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getAsText_long_Locale",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getMaximumValue",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_addWrapField_long_int",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_add_RP_int_intarray_int",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_set_long_String_Locale",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_toString",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_constructor1",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_constructor2",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getMinimumValue",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_isSupported",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_addWrapField_RP_int_intarray_int",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getMaximumValue_RP_intarray",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getLeapAmount_long",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getMinimumValue_RP_intarray",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestOffsetDateTimeField.test_getMaximumShortTextLength_Locale",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_set_long_String",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumValue_long",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsText_RP_int_Locale",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_isLeap_long",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_roundCeiling_long",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getName",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getType",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_roundHalfEven_long",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_constructor",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getLeapDurationField",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsShortText_long",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_get",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_set_RP_int_intarray_int",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsText_long",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsShortText_int_Locale",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsText_int_Locale",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_convertText",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_add_long_int",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getDifferenceAsLong_long_long",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_roundHalfFloor_long",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_isLenient",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getMinimumValue_RP",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getDifference_long_long",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsShortText_RP_Locale",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_add_long_long",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_remainder_long",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_set_RP_int_intarray_String_Locale",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumTextLength_Locale",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_roundHalfCeiling_long",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsText_RP_Locale",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getMinimumValue_long",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsShortText_long_Locale",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumValue_RP",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsShortText_RP_int_Locale",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_roundFloor_long",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_set_long_int",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsText_long_Locale",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumValue",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_addWrapField_long_int",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_add_RP_int_intarray_int",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_set_long_String_Locale",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_toString",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getMinimumValue",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_isSupported",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_addWrapField_RP_int_intarray_int",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumValue_RP_intarray",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getLeapAmount_long",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getMinimumValue_RP_intarray",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumShortTextLength_Locale",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_set_long_String",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getMaximumValue_long",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getAsText_RP_int_Locale",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_isLeap_long",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_roundCeiling_long",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getName",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getType",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_roundHalfEven_long",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_constructor",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getLeapDurationField",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getAsShortText_long",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_get",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_set_RP_int_intarray_int",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getAsText_long",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getAsShortText_int_Locale",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getAsText_int_Locale",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_convertText",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_add_long_int",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getDifferenceAsLong_long_long",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_roundHalfFloor_long",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getMinimumValue_RP",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getDifference_long_long",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getAsShortText_RP_Locale",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_add_long_long",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_remainder_long",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_set_RP_int_intarray_String_Locale",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getMaximumTextLength_Locale",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_roundHalfCeiling_long",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getAsText_RP_Locale",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getMinimumValue_long",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getAsShortText_long_Locale",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getRange",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getMaximumValue_RP",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getAsShortText_RP_int_Locale",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_roundFloor_long",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_set_long_int",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getAsText_long_Locale",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getMaximumValue",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_addWrapField_long_int",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_add_RP_int_intarray_int",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_set_long_String_Locale",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_toString",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getMinimumValue",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_isSupported",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_addWrapField_RP_int_intarray_int",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getMaximumValue_RP_intarray",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getLeapAmount_long",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getMinimumValue_RP_intarray",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDateTimeField.test_getMaximumShortTextLength_Locale",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getValueAsLong_long",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.testSerialization",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getName",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getType",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_compareTo",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getMillis_long_long",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_add_long_int",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_isPrecise",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getDifferenceAsLong_long_long",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getMillis_long",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_add_long_long",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getDifference_long_int",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getValue_long_long",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getUnitMillis",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getValue_long",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getMillis_int_long",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_toString",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_isSupported",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getMillis_int",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestMillisDurationField.test_getValueAsLong_long_long",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getValueAsLong_long",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.testSerialization",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getName",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getType",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_constructor",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_compareTo",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_hashCode",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getMillis_long_long",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_add_long_int",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_isPrecise",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getDifferenceAsLong_long_long",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getMillis_long",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_equals",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_add_long_long",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getDifference_long_int",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getValue_long_long",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getUnitMillis",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getValue_long",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getMillis_int_long",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_toString",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_isSupported",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getMillis_int",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestPreciseDurationField.test_getValueAsLong_long_long",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getValueAsLong_long",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.testSerialization",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getName",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getType",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_constructor",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_compareTo",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_hashCode",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getMillis_long_long",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_add_long_int",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_isPrecise",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getDifferenceAsLong_long_long",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getMillis_long",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_equals",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_add_long_long",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getDifference_long_int",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getValue_long_long",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getUnitMillis",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getValue_long",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getScalar",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getMillis_int_long",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_toString",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_isSupported",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getMillis_int",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestScaledDurationField.test_getValueAsLong_long_long",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestUnsupportedDateTimeField.testPublicGetNameMethod",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestUnsupportedDateTimeField.testMethodsThatShouldAlwaysReturnNull",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestUnsupportedDateTimeField.testDelegatedMethods",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestUnsupportedDateTimeField.testNullValuesToGetInstanceThrowsException",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestUnsupportedDateTimeField.testUnsupportedMethods",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestUnsupportedDateTimeField.testToString",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestUnsupportedDateTimeField.testDifferentDurationReturnDifferentObjects",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestAll.org.joda.time.field.TestUnsupportedDateTimeField.testAlwaysFalseReturnTypes",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_set_long_String",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getMaximumValue_long",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getAsText_RP_int_Locale",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_isLeap_long",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_roundCeiling_long",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getName",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getType",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_roundHalfEven_long",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_constructor",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getLeapDurationField",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getAsShortText_long",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_get",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_set_RP_int_intarray_int",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getAsText_long",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getAsShortText_int_Locale",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getAsText_int_Locale",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_convertText",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_add_long_int",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getDifferenceAsLong_long_long",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_roundHalfFloor_long",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getMinimumValue_RP",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getDifference_long_long",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getAsShortText_RP_Locale",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_add_long_long",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_remainder_long",
+  "value" : 0.6
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_set_RP_int_intarray_String_Locale",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getMaximumTextLength_Locale",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_roundHalfCeiling_long",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getAsText_RP_Locale",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getMinimumValue_long",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getAsShortText_long_Locale",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getMaximumValue_RP",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getAsShortText_RP_int_Locale",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_roundFloor_long",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_set_long_int",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getAsText_long_Locale",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getMaximumValue",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_addWrapField_long_int",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_add_RP_int_intarray_int",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_set_long_String_Locale",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_toString",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getMinimumValue",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_isSupported",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_addWrapField_RP_int_intarray_int",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getMaximumValue_RP_intarray",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getLeapAmount_long",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getMinimumValue_RP_intarray",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestBaseDateTimeField.test_getMaximumShortTextLength_Locale",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestFieldUtils.testSafeDivideLongLong",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.field.TestFieldUtils.testSafeMultiplyLongLong",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestFieldUtils.testSafeMultiplyLongInt",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestFieldUtils.testSafeSubtractLong",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestFieldUtils.testSafeAddInt",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.field.TestFieldUtils.testSafeAddLong",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getValueAsLong_long",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.testSerialization",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getName",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getType",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_compareTo",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getMillis_long_long",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_add_long_int",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_isPrecise",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getDifferenceAsLong_long_long",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getMillis_long",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_add_long_long",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getDifference_long_int",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getValue_long_long",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getUnitMillis",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getValue_long",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getMillis_int_long",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_toString",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_isSupported",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getMillis_int",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestMillisDurationField.test_getValueAsLong_long_long",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_set_long_String",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getMaximumValue_long",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getAsText_RP_int_Locale",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_isLeap_long",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_roundCeiling_long",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getName",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getType",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_roundHalfEven_long",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getLeapDurationField",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getAsShortText_long",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_get",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_set_RP_int_intarray_int",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getAsText_long",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getAsShortText_int_Locale",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getAsText_int_Locale",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_convertText",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_add_long_int",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getDifferenceAsLong_long_long",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_roundHalfFloor_long",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_isLenient",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getMinimumValue_RP",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getDifference_long_long",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getAsShortText_RP_Locale",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_add_long_long",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_remainder_long",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_set_RP_int_intarray_String_Locale",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getMaximumTextLength_Locale",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_roundHalfCeiling_long",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getAsText_RP_Locale",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getMinimumValue_long",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getAsShortText_long_Locale",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getOffset",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getMaximumValue_RP",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getAsShortText_RP_int_Locale",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_roundFloor_long",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_set_long_int",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getAsText_long_Locale",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getMaximumValue",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_addWrapField_long_int",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_add_RP_int_intarray_int",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_set_long_String_Locale",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_toString",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_constructor1",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_constructor2",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getMinimumValue",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_isSupported",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_addWrapField_RP_int_intarray_int",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getMaximumValue_RP_intarray",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getLeapAmount_long",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getMinimumValue_RP_intarray",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.field.TestOffsetDateTimeField.test_getMaximumShortTextLength_Locale",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_set_long_String",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getMaximumValue_long",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getAsText_RP_int_Locale",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_isLeap_long",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_roundCeiling_long",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getName",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getType",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_roundHalfEven_long",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_constructor",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getLeapDurationField",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getAsShortText_long",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_get",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_set_RP_int_intarray_int",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getAsText_long",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getAsShortText_int_Locale",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getAsText_int_Locale",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_convertText",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_add_long_int",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getDifferenceAsLong_long_long",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_roundHalfFloor_long",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getMinimumValue_RP",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getDifference_long_long",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getAsShortText_RP_Locale",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_add_long_long",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_remainder_long",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_set_RP_int_intarray_String_Locale",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getMaximumTextLength_Locale",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_roundHalfCeiling_long",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getAsText_RP_Locale",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getMinimumValue_long",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getAsShortText_long_Locale",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getRange",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getMaximumValue_RP",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getAsShortText_RP_int_Locale",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_roundFloor_long",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_set_long_int",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getAsText_long_Locale",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getMaximumValue",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_addWrapField_long_int",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_add_RP_int_intarray_int",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_set_long_String_Locale",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_toString",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getMinimumValue",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_isSupported",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_addWrapField_RP_int_intarray_int",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getMaximumValue_RP_intarray",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getLeapAmount_long",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getMinimumValue_RP_intarray",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestPreciseDateTimeField.test_getMaximumShortTextLength_Locale",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_set_long_String",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumValue_long",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsText_RP_int_Locale",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_isLeap_long",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_roundCeiling_long",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getName",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getType",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_roundHalfEven_long",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_constructor",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getLeapDurationField",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsShortText_long",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_get",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_set_RP_int_intarray_int",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsText_long",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsShortText_int_Locale",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsText_int_Locale",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_convertText",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_add_long_int",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getDifferenceAsLong_long_long",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_roundHalfFloor_long",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_isLenient",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getMinimumValue_RP",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getDifference_long_long",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsShortText_RP_Locale",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_add_long_long",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_remainder_long",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_set_RP_int_intarray_String_Locale",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumTextLength_Locale",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_roundHalfCeiling_long",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsText_RP_Locale",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getMinimumValue_long",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsShortText_long_Locale",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumValue_RP",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsShortText_RP_int_Locale",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_roundFloor_long",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_set_long_int",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getAsText_long_Locale",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumValue",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_addWrapField_long_int",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_add_RP_int_intarray_int",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_set_long_String_Locale",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_toString",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getMinimumValue",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_isSupported",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_addWrapField_RP_int_intarray_int",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumValue_RP_intarray",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getLeapAmount_long",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getMinimumValue_RP_intarray",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumShortTextLength_Locale",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getValueAsLong_long",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.testSerialization",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getName",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getType",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_constructor",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_compareTo",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_hashCode",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getMillis_long_long",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_add_long_int",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_isPrecise",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getDifferenceAsLong_long_long",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getMillis_long",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_equals",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_add_long_long",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getDifference_long_int",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getValue_long_long",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getUnitMillis",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getValue_long",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getMillis_int_long",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_toString",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_isSupported",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getMillis_int",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.field.TestPreciseDurationField.test_getValueAsLong_long_long",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getValueAsLong_long",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.testSerialization",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getName",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getType",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_constructor",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_compareTo",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_hashCode",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getMillis_long_long",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_add_long_int",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_isPrecise",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getDifferenceAsLong_long_long",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getMillis_long",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_equals",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_add_long_long",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getDifference_long_int",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getValue_long_long",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getUnitMillis",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getValue_long",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getScalar",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getMillis_int_long",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_toString",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_isSupported",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getMillis_int",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.field.TestScaledDurationField.test_getValueAsLong_long_long",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.field.TestUnsupportedDateTimeField.testPublicGetNameMethod",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestUnsupportedDateTimeField.testMethodsThatShouldAlwaysReturnNull",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.field.TestUnsupportedDateTimeField.testDelegatedMethods",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.field.TestUnsupportedDateTimeField.testNullValuesToGetInstanceThrowsException",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestUnsupportedDateTimeField.testUnsupportedMethods",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.field.TestUnsupportedDateTimeField.testToString",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.field.TestUnsupportedDateTimeField.testDifferentDurationReturnDifferentObjects",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.field.TestUnsupportedDateTimeField.testAlwaysFalseReturnTypes",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.format.TestAll.initializationError",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.format.TestDateTimeFormat.initializationError",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.format.TestDateTimeFormatStyle.initializationError",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.format.TestDateTimeFormatter.initializationError",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.format.TestDateTimeFormatterBuilder.initializationError",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat.initializationError",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_ordinalDateTimeNoMillis",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_timeElementParser",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_weekDate",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicDate",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicTime",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_localDateOptionalTimeParser",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicOrdinalDateTime",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicWeekDateTimeNoMillis",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_date",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_time",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicOrdinalDate",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_hourMinute",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_dateParser",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicDateTime",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_hourMinuteSecondMillis",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicWeekDateTime",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_weekDateTime",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_dateElementParser",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_timeParser",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicTimeNoMillis",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_timeNoMillis",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_dateTimeParser",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_weekDateTimeNoMillis",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_dateOptionalTimeParser",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_localDateParser",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_ordinalDateTime",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_tTimeNoMillis",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_localTimeParser",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_dateTime",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_hourMinuteSecond",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicDateTimeNoMillis",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicWeekDate",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_dateTimeNoMillis",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_ordinalDate",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_hourMinuteSecondFraction",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicOrdinalDateTimeNoMillis",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicTTime",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_basicTTimeNoMillis",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormatParsing.test_tTime",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HMSm",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_datetime_DH",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_datetime_DM",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_datetime_YH",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_calBased_D",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_calBased_M",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_calBased_Y",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_calBased_YMD",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_ordinalBased_D",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_ordinalBased_Y",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_calBased_YMD_unmodifiable",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_calBased_YMD_duplicates",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_weekBased_D",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_weekBased_W",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_weekBased_Y",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_weekBased_YWD",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_datetime_YMDH",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_empty",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HM",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HS",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_Hm",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_MS",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_Mm",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_Sm",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_ordinalBased_YD",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_null",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HMS",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HMm",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HSm",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_MSm",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_calBased_MD",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_calBased_YD",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_calBased_YM",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_H",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_M",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_S",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_m",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_weekBased_WD",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_weekBased_YD",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_weekBased_YW",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.format.TestISOPeriodFormat.initializationError",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.format.TestISOPeriodFormatParsing.initializationError",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_getDefault_checkRedundantSeparator",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_es_formatTwoFields",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_pt_FormatOneField",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_de_FormatOneField",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_pt_parseTwoFields",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_de_parseTwoFields",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_ja_checkRedundantSeparator",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_es_cached",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_pt_formatStandard",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_de_formatStandard",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_fr_FormatOneField",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_en_from_de",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_en_from_nl",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_fr_parseTwoFields",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_da_cached",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_fr_formatStandard",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_fr_cached",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_da_formatSinglular",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_ja_formatSingular",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_ja_formatMultiple",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_es_parseOneField",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_nl_FormatOneField",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_pt_parseOneField",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_nl_parseTwoFields",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_fr_from_de",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_fr_from_nl",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_fr_formatTwoFields",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_ja_parseOneField",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_ja_parseTwoFields",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_getDefault_parseOneField",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_nl_formatStandard",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_da_formatMultiple",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_nl_cached",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_de_parseOneField",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_default",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.testSubclassableConstructor",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_nl_formatTwoFields",
+  "value" : 0.6
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_getDefault_formatTwoFields",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_ja_cached",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_getDefault_FormatOneField",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_es_FormatOneField",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_getDefault_parseTwoFields",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_es_parseTwoFields",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_pt_formatTwoFields",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_getDefault_formatStandard",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_es_formatStandard",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_de_formatTwoFields",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_nl_parseOneField",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_de_cached",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_pt_cached",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_wordBased_fr_parseOneField",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormat.test_getDefault_cached",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormatParsing.initializationError",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormatter.initializationError",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.format.TestPeriodFormatterBuilder.initializationError",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.format.TestTextFields.initializationError",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.TestAbstractPartial.initializationError",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.TestAll.initializationError",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.TestAllPackages.initializationError",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.TestBasePartial.initializationError",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.TestBaseSingleFieldPeriod.initializationError",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.TestChronology.initializationError",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.TestDateMidnight_Basics.initializationError",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.TestDateMidnight_Constructors.initializationError",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.TestDateMidnight_Properties.initializationError",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testBasicComps1",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testBasicComps2",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testBasicComps3",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testBasicComps4",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testBasicComps5",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testDOM",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testDOW",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testDOY",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testWOW",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testClass",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testMonth",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testHour",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testWOYY",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testYear",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testEqualsHashCode",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListBasic",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListMonth",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListMillis",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListMinute",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListSecond",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testStaticGetInstanceLowerUpper",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListDOM",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListDOW",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListDOY",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListWOW",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testStaticGetTimeOnlyInstance",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testStaticGetInstance",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testStaticGetInstanceLower",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testMillis",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testMinute",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testStaticGetDateOnlyInstance",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testSerialization1",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testSerialization2",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testNullDT",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testSecond",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testInvalidObj",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListDate",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListHour",
+  "value" : 0.6
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListTime",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListYOYY",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.TestDateTimeComparator.testListYear",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.TestDateTimeConstants.testMaths",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.TestDateTimeConstants.testEras",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestDateTimeConstants.testMonthsOfYear",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.TestDateTimeConstants.testDaysOfWeek",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.TestDateTimeConstants.testHalfdaysOfDay",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.TestDateTimeConstants.testConstructor",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_millisOfDay",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_hourOfHalfday",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_weekyear",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_year",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_era",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_clockhourOfDay",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_dayOfWeek",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_dayOfYear",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_halfdayOfDay",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_yearOfEra",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_millisOfSecond",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_secondOfDay",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_weekyearOfCentury",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_secondOfMinute",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_monthOfYear",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_weekOfWeekyear",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_hourOfDay",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_minuteOfHour",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_clockhourOfHalfday",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_yearOfCentury",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_dayOfMonth",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_other",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_centuryOfEra",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.TestDateTimeFieldType.test_minuteOfDay",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.TestDateTimeUtils.initializationError",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.TestDateTimeZone.initializationError",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.TestDateTimeZoneCutover.initializationError",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestDateTime_Basics.initializationError",
+  "value" : 0.6
+}, {
+  "name" : "org.joda.time.TestDateTime_Constructors.initializationError",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.TestDateTime_Properties.initializationError",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.TestDays.initializationError",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.TestDurationField.test_subtract",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_weekyears",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_halfdays",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_days",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_eras",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_centuries",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_millis",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_months",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_minutes",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_seconds",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_hours",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_other",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_weeks",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestDurationFieldType.test_years",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.TestDuration_Basics.initializationError",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestDuration_Constructors.initializationError",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.TestHours.initializationError",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.TestIllegalFieldValueException.testReadablePartialValidate",
+  "value" : 0.6
+}, {
+  "name" : "org.joda.time.TestIllegalFieldValueException.testZoneTransition",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.TestIllegalFieldValueException.testVerifyValueBounds",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.TestIllegalFieldValueException.testOtherConstructors",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.TestIllegalFieldValueException.testSkipDateTimeField",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.TestIllegalFieldValueException.testSetText",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.TestIllegalFieldValueException.testJulianYearZero",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestIllegalFieldValueException.testGJCutover",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.TestInstant_Basics.initializationError",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestInstant_Constructors.initializationError",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestInterval_Basics.initializationError",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.TestInterval_Constructors.initializationError",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Basics.initializationError",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Constructors.initializationError",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopySecond",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddToCopyMinute",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyDay",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyCompareToHour",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyCompareToYear",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddToCopySecond",
+  "value" : 0.84
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetMaxMinValuesMinute",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetMaxMinValuesSecond",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyCompareToMinute",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyTextYear",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyCompareToMilli",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyCompareToMonth",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyCompareToSecond",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyWithMaximumValueDayOfMonth",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddToCopyHour",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddToCopyYear",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyMilli",
+  "value" : 1.0
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyMonth",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyTextDay",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyTextMonth",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetHour",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetYear",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetMaxMinValuesHour",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetMaxMinValuesYear",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyWithMaxMinValueHour",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyWithMinimumValueHour",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyHashCode",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyWithMaximumValueHour",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyRoundHour",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyMonth",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetMinute",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddToCopyDay",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyWithMinimumValueDayOfMonth",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetSecond",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetMinute",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetSecond",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyWithMaxMinValueMinute",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetTextHour",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddToCopyMilli",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddToCopyMonth",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyWithMaxMinValueSecond",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyEquals",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetDay",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetMilli",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyDay",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyCompareToDay",
+  "value" : 0.62
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyHour",
+  "value" : 0.79
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyYear",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyYear",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyWithMaxMinValueMilli",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetHour",
+  "value" : 0.81
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetTextMinute",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetMilli",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetMonth",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetTextMilli",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertySetTextSecond",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetMaxMinValuesDay",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetMaxMinValuesMilli",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyGetMaxMinValuesMonth",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyMinute",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.TestLocalDate_Basics.initializationError",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.TestLocalDate_Constructors.initializationError",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.TestLocalDate_Properties.initializationError",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestLocalTime_Basics.initializationError",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.TestLocalTime_Constructors.initializationError",
+  "value" : 0.98
+}, {
+  "name" : "org.joda.time.TestLocalTime_Properties.initializationError",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.TestMinutes.initializationError",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.TestMonthDay_Basics.initializationError",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestMonthDay_Constructors.initializationError",
+  "value" : 0.6
+}, {
+  "name" : "org.joda.time.TestMonthDay_Properties.initializationError",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.TestMonths.initializationError",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.TestMutableDateTime_Adds.initializationError",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.TestMutableDateTime_Basics.initializationError",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.TestMutableDateTime_Constructors.initializationError",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.TestMutableDateTime_Properties.initializationError",
+  "value" : 0.9
+}, {
+  "name" : "org.joda.time.TestMutableDateTime_Sets.initializationError",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.TestMutableInterval_Basics.initializationError",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.TestMutableInterval_Constructors.initializationError",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.TestMutableInterval_Updates.initializationError",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.TestMutablePeriod_Basics.initializationError",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.TestMutablePeriod_Constructors.initializationError",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.TestMutablePeriod_Updates.initializationError",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.TestPartial_Basics.initializationError",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.TestPartial_Constructors.initializationError",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.TestPartial_Match.initializationError",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.TestPartial_Properties.initializationError",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.TestPeriodType.initializationError",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.TestPeriod_Basics.initializationError",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.TestPeriod_Constructors.initializationError",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.TestSeconds.initializationError",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.TestSerialization.initializationError",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.TestStringConvert.testLocalDateTime",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.TestStringConvert.testMutablePeriod",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.TestStringConvert.testDateTime",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.TestStringConvert.testTimeZone",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.TestStringConvert.testDuration",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.TestStringConvert.testHours",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.TestStringConvert.testWeeks",
+  "value" : 0.92
+}, {
+  "name" : "org.joda.time.TestStringConvert.testYears",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.TestStringConvert.testDays",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.TestStringConvert.testMonthDay_leapDay",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.TestStringConvert.testLocalDate",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.TestStringConvert.testLocalTime",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.TestStringConvert.testYearMonth",
+  "value" : 0.61
+}, {
+  "name" : "org.joda.time.TestStringConvert.testMonthDay",
+  "value" : 0.89
+}, {
+  "name" : "org.joda.time.TestStringConvert.testMinutes",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.TestStringConvert.testMonths",
+  "value" : 0.66
+}, {
+  "name" : "org.joda.time.TestStringConvert.testSeconds",
+  "value" : 0.65
+}, {
+  "name" : "org.joda.time.TestStringConvert.testPeriod",
+  "value" : 0.8
+}, {
+  "name" : "org.joda.time.TestStringConvert.testMutableDateTime",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.TestStringConvert.testDateMidnight",
+  "value" : 0.93
+}, {
+  "name" : "org.joda.time.TestTimeOfDay_Basics.initializationError",
+  "value" : 0.64
+}, {
+  "name" : "org.joda.time.TestTimeOfDay_Constructors.initializationError",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.TestTimeOfDay_Properties.initializationError",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.TestWeeks.initializationError",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.TestYearMonthDay_Basics.initializationError",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.TestYearMonthDay_Constructors.initializationError",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.TestYearMonthDay_Properties.initializationError",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.TestYearMonth_Basics.initializationError",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.TestYearMonth_Constructors.initializationError",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.TestYearMonth_Properties.initializationError",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.TestYears.initializationError",
+  "value" : 0.63
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestUTCProvider.testClass",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestUTCProvider.testGetAvailableIDs",
+  "value" : 0.85
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestUTCProvider.testGetZone_String",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestBuilder.testSerialization",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestBuilder.testFixed",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestBuilder.testID",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestBuilder.testForwardTransitions",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestBuilder.testReverseTransitions",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestCompiler.test_2400_fromDay",
+  "value" : 0.97
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestCompiler.test_Amman_2003",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestCompiler.test_Amman_2004",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestCompiler.test_Amman_2005",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestCompiler.test_Amman_2006",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestCompiler.testDateTimeZoneBuilder",
+  "value" : 0.75
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestCompiler.testCompile",
+  "value" : 0.73
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestCompiler.test_2400_last",
+  "value" : 0.77
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestCachedDateTimeZone.testSerialization",
+  "value" : 0.99
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestCachedDateTimeZone.test_caching",
+  "value" : 0.74
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestFixedDateTimeZone.testToTimeZone1",
+  "value" : 0.95
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestFixedDateTimeZone.testToTimeZone2",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestFixedDateTimeZone.testHashCode",
+  "value" : 0.94
+}, {
+  "name" : "org.joda.time.tz.TestAll.org.joda.time.tz.TestFixedDateTimeZone.testEquals",
+  "value" : 0.91
+}, {
+  "name" : "org.joda.time.tz.TestBuilder.testSerialization",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.tz.TestBuilder.testFixed",
+  "value" : 0.67
+}, {
+  "name" : "org.joda.time.tz.TestBuilder.testID",
+  "value" : 0.68
+}, {
+  "name" : "org.joda.time.tz.TestBuilder.testForwardTransitions",
+  "value" : 0.69
+}, {
+  "name" : "org.joda.time.tz.TestBuilder.testReverseTransitions",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.tz.TestCachedDateTimeZone.testSerialization",
+  "value" : 0.86
+}, {
+  "name" : "org.joda.time.tz.TestCachedDateTimeZone.test_caching",
+  "value" : 0.78
+}, {
+  "name" : "org.joda.time.tz.TestCompiler.test_2400_fromDay",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.tz.TestCompiler.test_Amman_2003",
+  "value" : 0.83
+}, {
+  "name" : "org.joda.time.tz.TestCompiler.test_Amman_2004",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.tz.TestCompiler.test_Amman_2005",
+  "value" : 0.87
+}, {
+  "name" : "org.joda.time.tz.TestCompiler.test_Amman_2006",
+  "value" : 0.71
+}, {
+  "name" : "org.joda.time.tz.TestCompiler.testDateTimeZoneBuilder",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.tz.TestCompiler.testCompile",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.tz.TestCompiler.test_2400_last",
+  "value" : 0.96
+}, {
+  "name" : "org.joda.time.tz.TestFixedDateTimeZone.testToTimeZone1",
+  "value" : 0.72
+}, {
+  "name" : "org.joda.time.tz.TestFixedDateTimeZone.testToTimeZone2",
+  "value" : 0.76
+}, {
+  "name" : "org.joda.time.tz.TestFixedDateTimeZone.testHashCode",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.tz.TestFixedDateTimeZone.testEquals",
+  "value" : 0.88
+}, {
+  "name" : "org.joda.time.tz.TestUTCProvider.testClass",
+  "value" : 0.82
+}, {
+  "name" : "org.joda.time.tz.TestUTCProvider.testGetAvailableIDs",
+  "value" : 0.7
+}, {
+  "name" : "org.joda.time.tz.TestUTCProvider.testGetZone_String",
+  "value" : 0.74
+} ]

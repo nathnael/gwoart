@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2dd02a2-4f51-4ca8-9c5f-ac5fed9a38f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/Coverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/chartCoverage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/chartPrioritized.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/chartTestcases.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/closureCoverage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/closurePrioritized.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/closureTestcases.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/fscsPrioritized.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/mathCoverage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/mathPrioritized.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/mathTestcases.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/testcases.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/timeCoverage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/timePrioritized.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/timeTestcases.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gwoart/withcoverage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gwoart/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gwoart/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gwoart/Gwoart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gwoart/Gwoart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gwoart/JsonParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gwoart/JsonParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gwoart/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gwoart/TestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gwoart/order.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2AEKRQuW8Oxds4bkuhBf3C49VND" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/gwoart" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\gwoart\src\main\java\gwoart" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="gwoart [run]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2dd02a2-4f51-4ca8-9c5f-ac5fed9a38f2" name="Default Changelist" comment="" />
+      <created>1654569295411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654569295411</updated>
+      <workItem from="1654569301511" duration="8124000" />
+      <workItem from="1654936528397" duration="29304000" />
+      <workItem from="1655385731895" duration="2635000" />
+      <workItem from="1655458976817" duration="16506000" />
+      <workItem from="1655536617426" duration="3703000" />
+      <workItem from="1655544341313" duration="2882000" />
+      <workItem from="1655797424914" duration="3055000" />
+      <workItem from="1655800928639" duration="20178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655118127914">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="414" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655118127914" />
+    <state x="708" y="362" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1655807000299">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="708" y="362" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1655807000299" />
+    <state width="472" height="466" key="DebuggerActiveHint" timestamp="1655799656388">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="462" height="466" key="DebuggerActiveHint/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655488885731" />
+    <state width="472" height="466" key="DebuggerActiveHint/0.40.1920.1040@0.40.1920.1040" timestamp="1655799656388" />
+    <state x="740" y="315" width="728" height="741" key="FileChooserDialogImpl" timestamp="1655800976933">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="618" y="148" width="728" height="741" key="FileChooserDialogImpl/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655732779010" />
+    <state x="740" y="315" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1655800976933" />
+    <state width="1877" height="197" key="GridCell.Tab.0.bottom" timestamp="1656151819410">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655488986648" />
+    <state width="1877" height="197" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1656151819410" />
+    <state width="1877" height="197" key="GridCell.Tab.0.center" timestamp="1656151819410">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.0.center/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655488986648" />
+    <state width="1877" height="197" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1656151819410" />
+    <state width="1877" height="197" key="GridCell.Tab.0.left" timestamp="1656151819410">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.0.left/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655488986648" />
+    <state width="1877" height="197" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1656151819410" />
+    <state width="1877" height="197" key="GridCell.Tab.0.right" timestamp="1656151819410">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.0.right/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655488986648" />
+    <state width="1877" height="197" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1656151819410" />
+    <state width="1877" height="317" key="GridCell.Tab.1.bottom" timestamp="1655800502407">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655488986648" />
+    <state width="1877" height="317" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1655800502407" />
+    <state width="1877" height="317" key="GridCell.Tab.1.center" timestamp="1655800502407">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.center/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655488986648" />
+    <state width="1877" height="317" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1655800502407" />
+    <state width="1877" height="317" key="GridCell.Tab.1.left" timestamp="1655800502406">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.left/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655488986648" />
+    <state width="1877" height="317" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1655800502406" />
+    <state width="1877" height="317" key="GridCell.Tab.1.right" timestamp="1655800502407">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.right/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655488986648" />
+    <state width="1877" height="317" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1655800502407" />
+    <state x="440" y="134" key="SettingsEditor" timestamp="1655128479897">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="440" y="134" key="SettingsEditor/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655128479897" />
+    <state x="564" y="170" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1655200821866">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="564" y="170" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1655200821866" />
+    <state x="616" y="260" key="run.anything.popup" timestamp="1655798562312">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="616" y="260" key="run.anything.popup/0.40.1920.1040/-1920.40.1920.1040@0.40.1920.1040" timestamp="1655140174115" />
+    <state x="616" y="260" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1655798562312" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="java.lang.String" fieldName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="beta_copy" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
