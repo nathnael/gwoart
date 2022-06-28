@@ -1,3 +1,10 @@
+/*
+*
+* Fixed Sized Candidate Set Adaptive Random Testing
+*
+* */
+
+
 package gwoart;
 
 import java.io.*;
@@ -22,10 +29,11 @@ public class Fscsart {
     }
 
     public static void main(String[] args) {
-        List<String> prioritizedList = new ArrayList<String>();
+        List<TestCase> prioritizedList = new ArrayList<TestCase>();
+        List<String> prioritizedNameList = new ArrayList<String>();
         List<TestCase> iterationSet = new ArrayList<TestCase>();
         TestCase randomTestCase = new TestCase();
-        int iterationSetSize = 3;
+        int iterationSetSize = 10;
         try {
             final ObjectMapper objectMapper = new ObjectMapper();
             List<TestCase> testCaseList = objectMapper.readValue(
@@ -42,22 +50,25 @@ public class Fscsart {
                 TestCase selectedTestCase = new TestCase();
                 double testCasePerformance = 0.0;
 
-                for (TestCase testCase : iterationSet) {
+                for (TestCase testCaseItem : iterationSet) {
                     for (TestCase prioritizedTestCase : prioritizedList) {
-                        testCasePerformance = Math.abs(testCase.getValue() - prioritizedTestCase.getValue());
+                        testCasePerformance = Math.abs(testCaseItem.getValue() - prioritizedTestCase.getValue());
                         if (testCasePerformance > selectedTestCase.getValue()) {
-                            selectedTestCase = testCase;
+                            selectedTestCase = testCaseItem;
                         }
                     }
                 }
+                prioritizedList.add(testCase);
+                prioritizedNameList.add(testCase.getName());
+                testCaseList.remove(testCase);
             }
 
             ObjectWriter writer = objectMapper.writer(new DefaultPrettyPrinter());
             writer.writeValue(
                     new File("D:\\code\\gwoart\\src\\main\\java\\gwoart\\prioritized.json"),
-                    prioritizedList
+                    prioritizedNameList
             );
-            System.out.println("Prioritized Test Cases List: " + prioritizedList);
+            System.out.println("Prioritized Test Cases List: " + prioritizedNameList);
         } catch (Exception e) {
             e.printStackTrace();
         }
